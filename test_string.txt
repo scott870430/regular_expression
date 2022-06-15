@@ -7,11 +7,14 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 123-456-7890
 987.654.3210
 666 666 6666
-
+666666666666
 HaHa Ha
 somebody123@gmail.com
 somebody@fb.com
 some@yale.edu
 
 First Last
+FirstLast
 First.Last
+First..Last
+First...Last
