@@ -1,0 +1,17 @@
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+0123456789
+.!@#$%^&*-+()\{}[]
+
+123-456-7890
+987.654.3210
+666 666 6666
+
+HaHa Ha
+somebody123@gmail.com
+somebody@fb.com
+some@yale.edu
+
+First Last
+First.Last
